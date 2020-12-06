@@ -26,7 +26,7 @@ SECRET_KEY = 's##@4q2@3*n(tpjx8fqz571j*$jjojgm@696%gyk-+2&4m_+ov'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [Fito.pythonanywhere.com]
 
 
 # Application definition
